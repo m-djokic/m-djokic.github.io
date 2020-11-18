@@ -1,0 +1,59 @@
+body{
+background-color: tomato;
+}
+
+h1{
+    display: inline;
+    position: center;
+    color: black;
+    background-color: orange;
+    padding: 0.3em;
+    
+}
+
+h1:hover{
+    cursor: crosshair;
+}
+
+#beschreibung {
+    margin-right: 88%;
+    color: black;
+    background-color: orange;
+    margin-top: 1em;
+    padding: 0.2em;
+    font-size: 1.2em;
+}
+
+p{
+    margin-top: 1em;
+    padding: 0.2em;
+    font-size: 1.2em;
+
+}
+
+p:hover{
+    cursor: crosshair;
+}
+
+a{
+    text-decoration: none;
+    color: gold;
+    font-size: 1.2em;
+}
+
+a:hover{
+    cursor: crosshair;
+    font-size: 1.4em;
+    color: goldenrod;
+}
+
+img{
+    width: 800px;
+}
+
+#pic img{
+    width: 70px;
+}
+#pic2 img{
+    width: 50px;
+}
